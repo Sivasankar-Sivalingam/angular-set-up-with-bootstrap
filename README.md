@@ -35,4 +35,6 @@ NPM, short for Node Package Manager, is two things: first and foremost, it is an
 ],
 10.	Run the below cmd to run our angular application: 
 •	ng serve -o 
+11. Observable
+* https://stackoverflow.com/questions/34671715/angular2-http-get-map-subscribe-and-observable-pattern-basic-understan/34672550
 
