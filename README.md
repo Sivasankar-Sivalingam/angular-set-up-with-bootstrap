@@ -37,4 +37,5 @@ NPM, short for Node Package Manager, is two things: first and foremost, it is an
 •	ng serve -o 
 11. Observable
 * https://stackoverflow.com/questions/34671715/angular2-http-get-map-subscribe-and-observable-pattern-basic-understan/34672550
-
+12. Firebase hosting
+*  https://egghead.io/lessons/build-and-deploy-your-angular-app-to-firebase-hosting
